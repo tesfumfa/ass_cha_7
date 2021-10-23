@@ -31,3 +31,5 @@
     N/A
 ## screenshot
 <img src = "./Screenshotnode.png" alt = "generator preview">
+##   video animation presentation
+<img src="https://imgflip.com/gif/5rkqf5" alt="generator preview">
