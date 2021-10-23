@@ -32,4 +32,4 @@
 ## screenshot
 <img src = "./Screenshotnode.png" alt = "generator preview">
 ##   video animation presentation
-<img src="https://imgflip.com/gif/5rkqf5" alt="generator preview">
+<img src="./node_animation.gif" alt="generator preview">
