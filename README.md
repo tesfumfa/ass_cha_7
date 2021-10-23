@@ -30,4 +30,4 @@
 
     N/A
 ## screenshot
-<img src = "./demo.gif" alt = "generator preview">
+<img src = "./Screenshotnode.png" alt = "generator preview">
