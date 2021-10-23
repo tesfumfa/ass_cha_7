@@ -4,7 +4,7 @@ const fs = require("fs");
 const util = require("util");
 
 // Links questions to README template
-const ReadMeTemplate = require("./node.js/ReadMeTemplate");
+const ReadMeTemplate = require("./srs/ReadMeTemplate");
 
 // Creates a function to write README file
 const createFile = util.promisify(fs.writeFile);
@@ -60,3 +60,18 @@ const promptUser = () => {
         },
     ])
 };
+// Create a function to initialize app
+async function init() {
+    try {
+        const data = await promptUser();
+        const createContent = ReadMeTemplate(data);
+
+        await createFile('./README.md', createContent);
+        console.log('Successfully created README.md');
+    } catch(err) {
+        console.log(err);
+    }
+};
+
+// Calls function to initialize app
+init();
