@@ -29,3 +29,5 @@
   ## Contributing
 
     N/A
+## screenshot
+<img src = "./demo.gif" alt = "generator preview">
