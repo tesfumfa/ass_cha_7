@@ -32,4 +32,4 @@
 ## screenshot
 <img src = "./Screenshotnode.png" alt = "generator preview">
 ##   video animation presentation
-<img src="./node_animation.gif" width="1000" height="500" alt="generator preview">
+<img src="./node.js_quality_animation.gif" width="1000" height="500" alt="generator preview">
