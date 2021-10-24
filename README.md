@@ -63,6 +63,7 @@ THEN I am taken to the corresponding section of the README </p>
 
     N/A
 ## screenshot
-<img src = "./Screenshotnode.png" alt = "generator preview">
-##   video animation presentation
+<img src = "./Screenshotnode.png" alt = "generator preview"><br/>
+
+## video animation presentation
 <img src="./node.js_quality_animation.gif" width="1000" height="500" alt="generator preview">
