@@ -30,8 +30,8 @@ instructions on how to reach me with additional questions<br/>
 WHEN I click on the links in the Table of Contents<br/>
 THEN I am taken to the corresponding section of the README </p>
 <h3>To Getting Started</h3>
-<p> these module and packages are included to run approprately ,these are node_modules/ and .DS_Store/ in  
-.gitignore file package.json and 
+<p> these module and packages are included to run approprately<br/> these are node_modules/ and .DS_Store/ in  
+.gitignore file <br/>package.json and package-lock.json as a packages are included .<br/>presentation both as gif animation and image also included for understanding of what performs the node.js index.</p>
 
   ## Description 
 
